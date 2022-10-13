@@ -37,7 +37,7 @@ app.listen(8800, () => {
     console.log("Connected to backend!")
 })
 
-
+export default app;
 
 
 
