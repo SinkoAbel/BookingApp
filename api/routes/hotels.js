@@ -1,8 +1,5 @@
 import express from "express";
 import Hotel from "../models/Hotel.js";
-import {get} from "mongoose";
-import app from "../index.js";
-import hotel from "../models/Hotel.js";
 
 const router = express.Router();
 
